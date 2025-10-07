@@ -6,7 +6,7 @@
 
 ## About this Project
 
-A semaphore designed to practice React and its different hooks, mainly useState and useEffect
+App designed to practice React and its different hooks, mainly useState and useEffect
 
 ### _If you leave me some constructive feedback or a star ⭐, I would appreciate it._
 
