@@ -1,4 +1,4 @@
-# Trafict light with React
+# Pokemon Search App with React
 
 [@anyelycastillo.es](https://anyelycastillo.es/)
 [@instagram](https://www.instagram.com/arq.castilloaa/?hl=es)
