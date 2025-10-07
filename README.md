@@ -14,7 +14,7 @@ App designed to practice React and its different hooks, mainly useState and useE
 > Click on the image !
 ```
 
-[![img](./public/pokemonApp.jpg)](https://pokemon-app.netlify.app/)
+[![img](./public/pokemonApp.jpg)](https://pokemon-app001.netlify.app/)
 
 ## About me
 
